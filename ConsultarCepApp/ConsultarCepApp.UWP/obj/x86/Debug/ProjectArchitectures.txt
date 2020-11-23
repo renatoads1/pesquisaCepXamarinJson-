@@ -1,0 +1,1 @@
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp.UWP\ConsultarCepApp.UWP.csproj;x86

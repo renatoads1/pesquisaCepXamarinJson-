@@ -1,0 +1,14 @@
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\bin\Debug\netstandard2.0\ConsultarCepApp.deps.json
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\bin\Debug\netstandard2.0\ConsultarCepApp.dll
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\bin\Debug\netstandard2.0\ref\ConsultarCepApp.dll
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\bin\Debug\netstandard2.0\ConsultarCepApp.pdb
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\ConsultarCepApp.csprojAssemblyReference.cache
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\ConsultarCepApp.AssemblyInfoInputs.cache
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\ConsultarCepApp.AssemblyInfo.cs
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\ConsultarCepApp.csproj.CoreCompileInputs.cache
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\ConsultarCepApp.dll
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\ref\ConsultarCepApp.dll
+C:\Users\renatolacerda\source\repos\ConsultarCepApp\ConsultarCepApp\ConsultarCepApp\obj\Debug\netstandard2.0\ConsultarCepApp.pdb
